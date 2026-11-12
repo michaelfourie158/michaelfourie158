@@ -2,9 +2,9 @@
 
 # Hi, I'm Michael Fourie 👋
 
-**Final-year BSc Information Technology student & web developer**
+**Junior Software Engineer @ Digiata · Cape Town**
 
-Building an open educational resource (OER) platform to nurture a global community of learners and educators.
+BSc Information Technology graduate (North-West University) building financial software, and websites on the side.
 
 [![Website](https://img.shields.io/badge/Website-michaelfourie.co.za-f5a524?style=for-the-badge&logo=googlechrome&logoColor=white)](https://michaelfourie.co.za)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-michaelfourie158-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/michaelfourie158)
@@ -16,9 +16,10 @@ Building an open educational resource (OER) platform to nurture a global communi
 
 ## 🔭 Currently
 
-- 🎓 Final-year university project: a vibrant, open educational resource platform
-- 🌐 Designing and building websites for local businesses, such as [Bear Ridge Holdings](https://github.com/michaelfourie158/Bear-Ridge)
-- 📚 Sharpening full-stack skills across the .NET and React ecosystems
+- 💼 Junior Software Engineer at **Digiata**, delivering financial software for ManCos, LISPs and Group Asset Managers (ETL pipelines, SQL Server & Oracle, regulatory reporting)
+- 🏦 Software Engineer at **Allan Gray**
+- 🌐 Building websites for local businesses, such as [Bear Ridge Holdings](https://github.com/michaelfourie158/Bear-Ridge)
+- 🏅 Golden Key Award · Foundational C# (Microsoft) · CompTIA Cloud+ (CV0-003) training
 
 ## 🧰 Tech Stack
 
