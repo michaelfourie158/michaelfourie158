@@ -17,7 +17,7 @@ BSc Information Technology graduate (North-West University) building financial s
 ## 🔭 Currently
 
 - 💼 Junior Software Engineer at **Digiata**, delivering financial software for ManCos, LISPs and Group Asset Managers (ETL pipelines, SQL Server & Oracle, regulatory reporting)
-- 🏦 Software Engineer at **Allan Gray**
+- 🤝 Contracting through Digiata to **Allan Gray** (current) and previously to **Intembeko Investment Administrators**
 - 🌐 Building websites for local businesses, such as [Bear Ridge Holdings](https://github.com/michaelfourie158/Bear-Ridge)
 - 🏅 Golden Key Award · Foundational C# (Microsoft) · CompTIA Cloud+ (CV0-003) training
 
